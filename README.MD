@@ -1,3 +1,3 @@
 #This is sample README.MD
 
-Sample Project for 
+Injecting conflict causing change
